@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# qso-graph Demo
 
-## Getting Started
+[![Live Demo](https://img.shields.io/badge/demo-live-22c55e?style=for-the-badge&logo=vercel)](https://qso-graph-demo.vercel.app/)
+[![Docs](https://img.shields.io/badge/docs-qso--graph.io-3b82f6?style=for-the-badge)](https://qso-graph.io)
 
-First, run the development server:
+Interactive showcase of **44 MCP tools** across 9 [qso-graph](https://github.com/qso-graph) packages — connecting AI assistants to ham radio services.
+
+**[View the live demo →](https://qso-graph-demo.vercel.app/)**
+
+## Pages
+
+| Page | What it shows | Data |
+|------|--------------|------|
+| **Dashboard** | Station overview, band conditions, QSO stats | 49,233 QSOs from KI7MT |
+| **Physics Lab** | 18 operator-grounded propagation test paths | Cross-validated against 5.7M contest sigs |
+| **DXCC Progress** | 271 worked / 246 confirmed, band×mode matrix | LoTW confirmations |
+| **Path Analyzer** | Best times by band for specific paths | Pre-computed from log data |
+| **Log Viewer** | Browse and filter QSOs | Sample from KI7MT log |
+
+## MCP Tools Showcased
+
+| Package | Tools | Auth |
+|---------|-------|------|
+| [eqsl-mcp](https://github.com/qso-graph/eqsl-mcp) | 4 tools | Persona (keyring) |
+| [qrz-mcp](https://github.com/qso-graph/qrz-mcp) | 4 tools | XML session + API key |
+| [clublog-mcp](https://github.com/qso-graph/clublog-mcp) | 6 tools | API key |
+| [lotw-mcp](https://github.com/qso-graph/lotw-mcp) | 4 tools | Persona (keyring) |
+| [hamqth-mcp](https://github.com/qso-graph/hamqth-mcp) | 4 tools | Persona (keyring) |
+| [pota-mcp](https://github.com/qso-graph/pota-mcp) | 6 tools | Public |
+| [sota-mcp](https://github.com/qso-graph/sota-mcp) | 5 tools | Public |
+| [solar-mcp](https://github.com/qso-graph/solar-mcp) | 6 tools | Public |
+| [wspr-mcp](https://github.com/qso-graph/wspr-mcp) | 5 tools | Public |
+
+## Stack
+
+Next.js 15 · Tailwind v4 · TypeScript · Recharts · Vercel
+
+## Development
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
+npm run dev     # http://localhost:3000
+npm run build   # production build
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## License
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+MIT
