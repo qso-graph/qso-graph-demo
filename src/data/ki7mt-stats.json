@@ -1,0 +1,369 @@
+{
+  "total_qsos": 49233,
+  "callsign": "KI7MT",
+  "grid": "DN46",
+  "date_range": {
+    "start": "2009-12-22",
+    "end": "2025-09-28"
+  },
+  "bands": {
+    "20m": 18655,
+    "40m": 10226,
+    "15m": 7273,
+    "10m": 3752,
+    "160m": 2657,
+    "30m": 2329,
+    "80m": 2023,
+    "17m": 1671,
+    "12m": 583,
+    "6m": 61,
+    "60m": 3
+  },
+  "modes": {
+    "DATA": 30356,
+    "CW": 10980,
+    "SSB": 7897
+  },
+  "by_band_mode": {
+    "40m": {
+      "SSB": 1783,
+      "DATA": 6591,
+      "CW": 1852
+    },
+    "15m": {
+      "DATA": 5141,
+      "CW": 1507,
+      "SSB": 625
+    },
+    "20m": {
+      "CW": 2711,
+      "DATA": 13602,
+      "SSB": 2342
+    },
+    "30m": {
+      "CW": 786,
+      "DATA": 1543
+    },
+    "17m": {
+      "CW": 521,
+      "DATA": 852,
+      "SSB": 298
+    },
+    "10m": {
+      "DATA": 1457,
+      "CW": 944,
+      "SSB": 1351
+    },
+    "12m": {
+      "CW": 291,
+      "DATA": 279,
+      "SSB": 13
+    },
+    "6m": {
+      "DATA": 22,
+      "CW": 32,
+      "SSB": 7
+    },
+    "80m": {
+      "DATA": 864,
+      "CW": 540,
+      "SSB": 619
+    },
+    "160m": {
+      "CW": 1796,
+      "DATA": 5,
+      "SSB": 856
+    },
+    "60m": {
+      "SSB": 3
+    }
+  },
+  "by_hour": {
+    "0": 4027,
+    "1": 3390,
+    "2": 2676,
+    "3": 2268,
+    "4": 1661,
+    "5": 1343,
+    "6": 1033,
+    "7": 791,
+    "8": 583,
+    "9": 471,
+    "10": 480,
+    "11": 404,
+    "12": 396,
+    "13": 594,
+    "14": 1125,
+    "15": 1413,
+    "16": 2183,
+    "17": 2338,
+    "18": 2980,
+    "19": 3406,
+    "20": 3479,
+    "21": 4152,
+    "22": 4130,
+    "23": 3910
+  },
+  "by_month": {
+    "1": 6225,
+    "2": 6699,
+    "3": 3315,
+    "4": 1415,
+    "5": 3669,
+    "6": 348,
+    "7": 113,
+    "8": 58,
+    "9": 4466,
+    "10": 10633,
+    "11": 7629,
+    "12": 4663
+  },
+  "top_grids": {
+    "PM95": 783,
+    "FN20": 761,
+    "CM87": 725,
+    "FN03": 688,
+    "DM13": 679,
+    "FN42": 639,
+    "FM18": 603,
+    "FM19": 588,
+    "PM86": 575,
+    "CM97": 498,
+    "FN31": 488,
+    "CN87": 471,
+    "EN61": 428,
+    "CM98": 415,
+    "EN91": 409,
+    "DM04": 396,
+    "EM79": 386,
+    "EN82": 381,
+    "EM12": 378,
+    "EN90": 349
+  },
+  "top_countries": {
+    "United States": 31911,
+    "Japan": 3092,
+    "Canada": 2349,
+    "Germany": 523,
+    "Brazil": 470,
+    "Italy": 465,
+    "Hawaii": 394,
+    "Spain": 371,
+    "Argentina": 370,
+    "Alaska": 361,
+    "Australia": 346,
+    "Mexico": 331,
+    "Russia": 315,
+    "Asiatic Russia": 273,
+    "France": 266,
+    "Cuba": 265,
+    "New Zealand": 238,
+    "England": 218,
+    "Puerto Rico": 202,
+    "Netherlands": 193
+  },
+  "sample_qsos": [
+    {
+      "date": "2025-09-28",
+      "time": "23:04",
+      "call": "KO6KFH",
+      "band": "20m",
+      "mode": "SSB",
+      "grid": "DM04ih",
+      "country": "United States",
+      "dxcc": 291
+    },
+    {
+      "date": "2025-09-28",
+      "time": "23:02",
+      "call": "W0CGC",
+      "band": "20m",
+      "mode": "SSB",
+      "grid": "EM75rt",
+      "country": "United States",
+      "dxcc": 291
+    },
+    {
+      "date": "2025-09-28",
+      "time": "23:01",
+      "call": "N3SMD",
+      "band": "20m",
+      "mode": "SSB",
+      "grid": "FM18sf",
+      "country": "United States",
+      "dxcc": 291
+    },
+    {
+      "date": "2025-09-28",
+      "time": "23:00",
+      "call": "K0OE",
+      "band": "20m",
+      "mode": "SSB",
+      "grid": "EN36wt",
+      "country": "United States",
+      "dxcc": 291
+    },
+    {
+      "date": "2025-09-28",
+      "time": "23:00",
+      "call": "VE7WGX",
+      "band": "20m",
+      "mode": "SSB",
+      "grid": "CN88hk",
+      "country": "Canada",
+      "dxcc": 1
+    },
+    {
+      "date": "2025-09-28",
+      "time": "22:59",
+      "call": "N3RCW",
+      "band": "20m",
+      "mode": "SSB",
+      "grid": "fm18nl",
+      "country": "United States",
+      "dxcc": 291
+    },
+    {
+      "date": "2025-09-28",
+      "time": "22:58",
+      "call": "VE7DTG",
+      "band": "20m",
+      "mode": "SSB",
+      "grid": "CO90tr",
+      "country": "Canada",
+      "dxcc": 1
+    },
+    {
+      "date": "2025-09-28",
+      "time": "22:58",
+      "call": "K4CGY",
+      "band": "20m",
+      "mode": "SSB",
+      "grid": "FM07sv",
+      "country": "United States",
+      "dxcc": 291
+    },
+    {
+      "date": "2025-09-28",
+      "time": "22:53",
+      "call": "VE7QRZ",
+      "band": "20m",
+      "mode": "SSB",
+      "grid": "ca-550",
+      "country": "Canada",
+      "dxcc": 1
+    },
+    {
+      "date": "2025-09-28",
+      "time": "22:53",
+      "call": "KK0NIG",
+      "band": "20m",
+      "mode": "SSB",
+      "grid": "CM97TQ",
+      "country": "United States",
+      "dxcc": 291
+    },
+    {
+      "date": "2025-09-28",
+      "time": "22:52",
+      "call": "N5COP",
+      "band": "20m",
+      "mode": "SSB",
+      "grid": "DM84ww",
+      "country": "United States",
+      "dxcc": 291
+    },
+    {
+      "date": "2025-09-28",
+      "time": "22:52",
+      "call": "AA6MK",
+      "band": "20m",
+      "mode": "SSB",
+      "grid": "CM87xq",
+      "country": "United States",
+      "dxcc": 291
+    },
+    {
+      "date": "2025-09-28",
+      "time": "22:50",
+      "call": "K5KEB",
+      "band": "20m",
+      "mode": "SSB",
+      "grid": "EM30rf",
+      "country": "United States",
+      "dxcc": 291
+    },
+    {
+      "date": "2025-09-28",
+      "time": "22:50",
+      "call": "KG7JSF",
+      "band": "20m",
+      "mode": "SSB",
+      "grid": "DM33QU",
+      "country": "United States",
+      "dxcc": 291
+    },
+    {
+      "date": "2025-09-28",
+      "time": "22:47",
+      "call": "KF5SDE",
+      "band": "20m",
+      "mode": "SSB",
+      "grid": "EM35pe",
+      "country": "United States",
+      "dxcc": 291
+    },
+    {
+      "date": "2025-09-28",
+      "time": "22:46",
+      "call": "KN6KS",
+      "band": "20m",
+      "mode": "SSB",
+      "grid": "DM04VP",
+      "country": "United States",
+      "dxcc": 291
+    },
+    {
+      "date": "2025-09-28",
+      "time": "22:45",
+      "call": "SM3NRL",
+      "band": "20m",
+      "mode": "SSB",
+      "grid": "",
+      "country": "Sweden",
+      "dxcc": 284
+    },
+    {
+      "date": "2025-09-28",
+      "time": "22:44",
+      "call": "KK7OSF",
+      "band": "20m",
+      "mode": "SSB",
+      "grid": "DM41mw",
+      "country": "United States",
+      "dxcc": 291
+    },
+    {
+      "date": "2025-09-28",
+      "time": "22:44",
+      "call": "K7SEN",
+      "band": "20m",
+      "mode": "SSB",
+      "grid": "DM34wh",
+      "country": "United States",
+      "dxcc": 291
+    },
+    {
+      "date": "2025-09-28",
+      "time": "22:43",
+      "call": "KO6CZQ",
+      "band": "20m",
+      "mode": "SSB",
+      "grid": "CM98ah",
+      "country": "United States",
+      "dxcc": 291
+    }
+  ],
+  "dxcc_count": 271,
+  "grids_count": 1685
+}

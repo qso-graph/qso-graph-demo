@@ -1,0 +1,181 @@
+{
+  "total_confirmed": 37651,
+  "dxcc_count": 246,
+  "band_totals": {
+    "20m": 202,
+    "15m": 176,
+    "30m": 170,
+    "40m": 166,
+    "17m": 163,
+    "10m": 141,
+    "12m": 135,
+    "80m": 53,
+    "160m": 21,
+    "6m": 1,
+    "60m": 1
+  },
+  "mode_totals": {
+    "DATA": 195,
+    "SSB": 145,
+    "CW": 229
+  },
+  "matrix": {
+    "10m": {
+      "CW": 109,
+      "SSB": 70,
+      "DATA": 71
+    },
+    "12m": {
+      "CW": 125,
+      "SSB": 9,
+      "DATA": 59
+    },
+    "15m": {
+      "CW": 141,
+      "SSB": 70,
+      "DATA": 127
+    },
+    "160m": {
+      "CW": 21,
+      "SSB": 8,
+      "DATA": 1
+    },
+    "17m": {
+      "CW": 133,
+      "SSB": 36,
+      "DATA": 96
+    },
+    "20m": {
+      "CW": 156,
+      "SSB": 111,
+      "DATA": 148
+    },
+    "30m": {
+      "CW": 157,
+      "SSB": 0,
+      "DATA": 92
+    },
+    "40m": {
+      "CW": 134,
+      "SSB": 76,
+      "DATA": 112
+    },
+    "60m": {
+      "CW": 0,
+      "SSB": 1,
+      "DATA": 0
+    },
+    "6m": {
+      "CW": 1,
+      "SSB": 1,
+      "DATA": 1
+    },
+    "80m": {
+      "CW": 43,
+      "SSB": 18,
+      "DATA": 12
+    }
+  },
+  "top_entities": [
+    {
+      "dxcc": 291,
+      "name": "UNITED STATES OF AMERICA",
+      "qsos": 25064
+    },
+    {
+      "dxcc": 339,
+      "name": "JAPAN",
+      "qsos": 2153
+    },
+    {
+      "dxcc": 1,
+      "name": "CANADA",
+      "qsos": 1752
+    },
+    {
+      "dxcc": 110,
+      "name": "HAWAII",
+      "qsos": 348
+    },
+    {
+      "dxcc": 230,
+      "name": "FEDERAL REPUBLIC OF GERMANY",
+      "qsos": 344
+    },
+    {
+      "dxcc": 248,
+      "name": "ITALY",
+      "qsos": 336
+    },
+    {
+      "dxcc": 6,
+      "name": "ALASKA",
+      "qsos": 327
+    },
+    {
+      "dxcc": 281,
+      "name": "SPAIN",
+      "qsos": 312
+    },
+    {
+      "dxcc": 108,
+      "name": "BRAZIL",
+      "qsos": 289
+    },
+    {
+      "dxcc": 150,
+      "name": "AUSTRALIA",
+      "qsos": 289
+    },
+    {
+      "dxcc": 50,
+      "name": "MEXICO",
+      "qsos": 284
+    },
+    {
+      "dxcc": 100,
+      "name": "ARGENTINA",
+      "qsos": 261
+    },
+    {
+      "dxcc": 170,
+      "name": "NEW ZEALAND",
+      "qsos": 232
+    },
+    {
+      "dxcc": 227,
+      "name": "FRANCE",
+      "qsos": 216
+    },
+    {
+      "dxcc": 54,
+      "name": "EUROPEAN RUSSIA",
+      "qsos": 190
+    },
+    {
+      "dxcc": 15,
+      "name": "ASIATIC RUSSIA",
+      "qsos": 174
+    },
+    {
+      "dxcc": 223,
+      "name": "ENGLAND",
+      "qsos": 159
+    },
+    {
+      "dxcc": 202,
+      "name": "PUERTO RICO",
+      "qsos": 159
+    },
+    {
+      "dxcc": 263,
+      "name": "NETHERLANDS",
+      "qsos": 143
+    },
+    {
+      "dxcc": 327,
+      "name": "INDONESIA",
+      "qsos": 136
+    }
+  ]
+}
