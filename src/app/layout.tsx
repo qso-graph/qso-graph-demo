@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "qso-graph — Ham Radio MCP Tools",
   description:
-    "44 MCP tools across 9 packages connecting AI assistants to ham radio services. eQSL, QRZ, Club Log, LoTW, HamQTH, POTA, SOTA, space weather, and WSPR analytics.",
+    "MCP tools connecting AI assistants to ham radio services. eQSL, QRZ, LoTW, HamQTH, POTA, SOTA, space weather, and WSPR analytics.",
 };
 
 export default function RootLayout({

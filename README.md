@@ -3,7 +3,7 @@
 [![Live Demo](https://img.shields.io/badge/demo-live-22c55e?style=for-the-badge&logo=vercel)](https://qso-graph-demo.vercel.app/)
 [![Docs](https://img.shields.io/badge/docs-qso--graph.io-3b82f6?style=for-the-badge)](https://qso-graph.io)
 
-Interactive showcase of **44 MCP tools** across 9 [qso-graph](https://github.com/qso-graph) packages — connecting AI assistants to ham radio services.
+Interactive showcase of [qso-graph](https://github.com/qso-graph) MCP packages — connecting AI assistants to ham radio services.
 
 **[View the live demo →](https://qso-graph-demo.vercel.app/)**
 
@@ -23,7 +23,6 @@ Interactive showcase of **44 MCP tools** across 9 [qso-graph](https://github.com
 |---------|-------|------|
 | [eqsl-mcp](https://github.com/qso-graph/eqsl-mcp) | 4 tools | Persona (keyring) |
 | [qrz-mcp](https://github.com/qso-graph/qrz-mcp) | 4 tools | XML session + API key |
-| [clublog-mcp](https://github.com/qso-graph/clublog-mcp) | 6 tools | API key |
 | [lotw-mcp](https://github.com/qso-graph/lotw-mcp) | 4 tools | Persona (keyring) |
 | [hamqth-mcp](https://github.com/qso-graph/hamqth-mcp) | 4 tools | Persona (keyring) |
 | [pota-mcp](https://github.com/qso-graph/pota-mcp) | 6 tools | Public |
