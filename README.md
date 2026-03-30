@@ -21,14 +21,14 @@ Interactive showcase of [qso-graph](https://github.com/qso-graph) MCP packages â
 
 | Package | Tools | Auth |
 |---------|-------|------|
-| [eqsl-mcp](https://github.com/qso-graph/eqsl-mcp) | 4 tools | Persona (keyring) |
-| [qrz-mcp](https://github.com/qso-graph/qrz-mcp) | 4 tools | XML session + API key |
-| [lotw-mcp](https://github.com/qso-graph/lotw-mcp) | 4 tools | Persona (keyring) |
-| [hamqth-mcp](https://github.com/qso-graph/hamqth-mcp) | 4 tools | Persona (keyring) |
-| [pota-mcp](https://github.com/qso-graph/pota-mcp) | 6 tools | Public |
-| [sota-mcp](https://github.com/qso-graph/sota-mcp) | 5 tools | Public |
+| [eqsl-mcp](https://github.com/qso-graph/eqsl-mcp) | 5 tools | Persona (keyring) |
+| [qrz-mcp](https://github.com/qso-graph/qrz-mcp) | 5 tools | XML session + API key |
+| [lotw-mcp](https://github.com/qso-graph/lotw-mcp) | 5 tools | Persona (keyring) |
+| [hamqth-mcp](https://github.com/qso-graph/hamqth-mcp) | 7 tools | Persona (keyring) |
+| [pota-mcp](https://github.com/qso-graph/pota-mcp) | 7 tools | Public |
+| [sota-mcp](https://github.com/qso-graph/sota-mcp) | 4 tools | Public |
 | [solar-mcp](https://github.com/qso-graph/solar-mcp) | 6 tools | Public |
-| [wspr-mcp](https://github.com/qso-graph/wspr-mcp) | 5 tools | Public |
+| [wspr-mcp](https://github.com/qso-graph/wspr-mcp) | 8 tools | Public |
 
 ## Stack
 
