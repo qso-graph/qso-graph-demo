@@ -1,11 +1,11 @@
 # qso-graph Demo
 
-[![Live Demo](https://img.shields.io/badge/demo-live-22c55e?style=for-the-badge&logo=vercel)](https://qso-graph-demo.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/demo-live-22c55e?style=for-the-badge&logo=github)](https://qso-graph.io/qso-graph-demo-logbook/)
 [![Docs](https://img.shields.io/badge/docs-qso--graph.io-3b82f6?style=for-the-badge)](https://qso-graph.io)
 
 Interactive showcase of [qso-graph](https://github.com/qso-graph) MCP packages — connecting AI assistants to ham radio services.
 
-**[View the live demo →](https://qso-graph-demo.vercel.app/)**
+**[View the live demo →](https://qso-graph.io/qso-graph-demo-logbook/)**
 
 ## Pages
 
@@ -32,7 +32,7 @@ Interactive showcase of [qso-graph](https://github.com/qso-graph) MCP packages �
 
 ## Stack
 
-Next.js 15 · Tailwind v4 · TypeScript · Recharts · Vercel
+Next.js 16 · Tailwind v4 · TypeScript · Recharts · GitHub Pages
 
 ## Development
 
